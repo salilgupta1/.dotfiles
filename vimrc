@@ -37,6 +37,7 @@ set foldmethod=indent " fold based on indent level
 
 " Plugins via vim-plugin
 call plug#begin()
+Plug 'Yggdroot/indentLine' " indentation lines
 Plug 'tpope/vim-fugitive' " fugitive for git shit
 Plug 'vim-airline/vim-airline' " vim-airline
 Plug 'vim-airline/vim-airline-themes' " color themes for airline
