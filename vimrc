@@ -46,6 +46,7 @@ Plug 'junegunn/fzf', {'dir': '~/.fzf', 'do': './install --all'}
 Plug 'jremmen/vim-ripgrep' " rip-grep faster grep
 Plug 'w0rp/ale' " asyncronous linting
 Plug 'pearofducks/ansible-vim' " syntax highlighting for jinja2
+Plug 'Valloric/YouCompleteMe' " autocomplete
 call plug#end()
 
 " Necesary for lots of cool vim things
