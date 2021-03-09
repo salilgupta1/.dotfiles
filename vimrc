@@ -41,11 +41,9 @@ Plug 'Yggdroot/indentLine' " indentation lines
 Plug 'tpope/vim-fugitive' " fugitive for git shit
 Plug 'vim-airline/vim-airline' " vim-airline
 Plug 'vim-airline/vim-airline-themes' " color themes for airline
-Plug 'kchmck/vim-coffee-script' " coffeescript
 Plug 'junegunn/fzf', {'dir': '~/.fzf', 'do': './install --all'}
 Plug 'jremmen/vim-ripgrep' " rip-grep faster grep
 Plug 'w0rp/ale' " asyncronous linting
-Plug 'pearofducks/ansible-vim' " syntax highlighting for jinja2
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'leafgarland/typescript-vim' " syntax highlighting for typescript
 call plug#end()
